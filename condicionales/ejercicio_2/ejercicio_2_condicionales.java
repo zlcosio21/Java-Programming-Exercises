@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio_2 {
+public class ejercicio_2_condicionales {
     public static void main(String[] args) throws Exception {
         Scanner lectura = new Scanner(System.in);
         double descuento = 1;

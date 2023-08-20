@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio_1 {
+public class ejercicio_1_condicionales {
     public static void main(String[] args) throws Exception {
         Scanner lectura = new Scanner(System.in);
         int num_computadoras;
