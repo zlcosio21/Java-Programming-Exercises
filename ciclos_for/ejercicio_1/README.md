@@ -1,18 +1,3 @@
-## Getting Started
+## Ejercicio 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Un Zoólogo pretende determinar cuántos animales hay en las categorías de edades: menos de 5 años, y de 5 o más años. El zoológico todavía no está seguro del animal que va a estudiar. Si se decide por elefantes solo tomará una muestra de 5 de ellos; si se decide por jirafas, tomará 7 muestras y si son chimpancés tomará 8.
